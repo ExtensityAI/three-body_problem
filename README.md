@@ -1,5 +1,6 @@
 # Unified Framework for the Three-Body Problem
 
+[See Research Paper](https://github.com/ExtensityAI/three-body_problem/blob/6c4b232f16e69b7c2250843c9c51c1e720bba78d/assets/A_Combined_Differential_Galois_Theory_and_Painlev%C3%A9_Analysis_Approach_to_the_Three_Body_Problem.pdf)
 
 [![Video](figures/animations/video_preview.png)](figures/animations/three_body_scenarios_comparative.mp4)
 
